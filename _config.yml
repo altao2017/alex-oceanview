@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://altao2017.github.io/myphotorama/gallery/"  
-  - JOURNAL: "http://altao2017.github.io/myphotorama/journal/"
-  - ABOUT: "http://altao2017.github.io/myphotorama/about/"
+  - GALLERY: "http://altao2017.github.io/alex-oceanview/gallery/"  
+  - JOURNAL: "http://altao2017.github.io/alex-oceanview/journal/"
+  - ABOUT: "http://altao2017.github.io/alex-oceanview/about/"
 
 # All translation keys
 translations:
